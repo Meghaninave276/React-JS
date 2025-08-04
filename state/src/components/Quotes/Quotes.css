@@ -1,9 +1,12 @@
 /* Quotes.css */
 body
 {
-    background-color: brown;
+    background-image: url("https://i.pinimg.com/1200x/29/df/1b/29df1bac4893a448fff00094dbcd6d7f.jpg");
     height: auto;
     width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
 }
 .quote-card {
   background: linear-gradient(135deg, #f9f9f9, #e0f7fa);
