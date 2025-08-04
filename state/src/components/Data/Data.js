@@ -150,5 +150,5 @@ const Data = [
       "author": "Muhammad Ali"
     }
   ];
-  export default Data;
+ export default Data;
   
